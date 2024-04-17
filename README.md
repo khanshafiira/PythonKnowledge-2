@@ -10,6 +10,7 @@ A function is a unit of code that only executes when invoked. A function may ret
 
 ## 1. Create a Function
 Use the `def`keyword
+
 ![Screenshot 2024-04-17 225318](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/ad6f98c4-f2a0-4880-b6bf-88beb185eff9)
 
 ## 2. Calling a Function
