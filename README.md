@@ -11,8 +11,31 @@ A function is a unit of code that only executes when invoked. A function may ret
 ## 1. Create a Function
 Use the `def`keyword
 
-![Screenshot 2024-04-17 225318](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/ad6f98c4-f2a0-4880-b6bf-88beb185eff9)
+![1](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/589f4629-f076-4c54-ba5b-ab9353a6bea2|width=50)
 
 ## 2. Calling a Function
 Use the function name followed by paranthesis
-![image](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/a2e08dfe-e7be-4fd5-a0f2-b689cad387e4)
+![1](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/f239b140-8743-453a-b3df-1f772d586b7f)
+![2](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/e1452aeb-3ab3-4857-a6e6-5e3aa2339527)
+![3](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/0e6ff0f8-241a-4fa1-8de1-cc012cac8894)
+
+## 3. Return Statement
+The Python return statement is a special statement that **can be used within a function or method to return the function's results to the caller**.
+
+Characteristics:
+- contains the return keyword followed by an optional return value
+- Python functions can return any Python object
+- might be placed in a variable to distinguish it from a function that does not return a value (also known as a procedure).
+
+Example:
+
+![4](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/680b147c-74f9-495b-b009-6e7d5eb2891e)
+
+Result:
+
+![5](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/5e8fba88-82f2-45de-b494-e75d89c17593)
+
+## 4. R
+
+
+
