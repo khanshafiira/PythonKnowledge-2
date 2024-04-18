@@ -11,13 +11,12 @@ A function is a unit of code that only executes when invoked. A function may ret
 ## 1. Create a Function
 Use the `def`keyword
 
-![1](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/589f4629-f076-4c54-ba5b-ab9353a6bea2|width=50)
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/589f4629-f076-4c54-ba5b-ab9353a6bea2" width="350" height="80">
 
 ## 2. Calling a Function
 Use the function name followed by paranthesis
-![1](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/f239b140-8743-453a-b3df-1f772d586b7f)
-![2](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/e1452aeb-3ab3-4857-a6e6-5e3aa2339527)
-![3](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/0e6ff0f8-241a-4fa1-8de1-cc012cac8894)
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/68edb000-189c-4ffb-a154-f98c2c9f848e" width="350" height="150">  
 
 ## 3. Return Statement
 The Python return statement is a special statement that **can be used within a function or method to return the function's results to the caller**.
@@ -27,15 +26,34 @@ Characteristics:
 - Python functions can return any Python object
 - might be placed in a variable to distinguish it from a function that does not return a value (also known as a procedure).
 
-Example:
+Example #1:
 
-![4](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/680b147c-74f9-495b-b009-6e7d5eb2891e)
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/f7ceca8b-8440-44e0-be13-3e6d425105bf" width="310" height="170">
 
-Result:
+`
 
-![5](https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/5e8fba88-82f2-45de-b494-e75d89c17593)
+**#Notes** The difference between `print` and `return` :
+- `print` is a Python built-in function and **only** displaying output on the console or terminal.
+- `return` specifies the value that a function should return when it is called. It performs certain computations or operations before returning the result or a group of data to the calling code.
 
-## 4. R
+Example #2:
+- Using input() and print() instead of return in functions, which is handy when there are many variables to be shown.
 
+  <img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/d3989ee8-e1fb-4349-add9-7a77a94d311b" width="450" height="160">
+
+- input the variable
+  
+  [for example, if you want to search for the result of the square root of 36]
+  <img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/18d93b4c-155d-4932-a621-d8eafedc5716" width="450" height="160">
+
+  [for example, if you want to search for the result of the square root of 169]
+  <img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/e3df173c-3d04-4a23-a238-5d2ca7d54285" width="450" height="160">
+  
+## 4. Pass by reference vs Value
+**What is pass by reference?**
+~Pass by Reference~ indicates that you must send the function (reference) to a variable, implying that the variable already exists in memory. The function adds the string "Geeks" to the list supplied to it and prints it. Because lists are changeable data types, any changes made to the list within the function are mirrored outside the function, as shown in the output.
+
+**What is pass by value?**
+~Pass by values~ means passing a copy of the function's actual variables as a parameter. As a result, any changes to the function's parameters will not affect the actual variable.
 
 
