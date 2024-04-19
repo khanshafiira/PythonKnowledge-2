@@ -70,7 +70,7 @@ Example:
 
 ## NumPy
 
-NumPy is Python's essential scientific computing library. It is **a Python library** that **includes a multidimensional array object, various derived objects** (such as masked arrays and matrices), **and a collection of routines for performing fast array operations**, such as mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation, and much more.
+NumPy (Numerical Python) is Python's essential scientific computing library. It is **a Python library** that **includes a multidimensional array object, various derived objects** (such as masked arrays and matrices), **and a collection of routines for performing fast array operations**, such as mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation, and much more.
 
 You can use NumPy in Python by import it
 
@@ -81,18 +81,29 @@ Example #1:
 ### Dimension
 NumPy's primary object is a homogenous multidimensional array. It is a table with elements (typically numbers) of the same type, each indexed by a non-negative integer tuple. In NumPy, **dimensions are referred to as axes**.
 
-#### 0-D array
+#### a) 0-D array
 
 <img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/1b435a0d-fe8a-4b3f-8182-671bcc25578a" width="400" height="100">
 
-#### 1-D array
+#### b) 1-D array
 
 <img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/128dc9e2-de00-486a-aff8-9b63ad361edd" width="400" height="100">
 
-#### 2-D array
+#### c) 2-D array
 
 <img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/2ee00247-d609-419a-863b-cc649ccdd075" width="400" height="100">
 
-#### 3-D array
+#### d) 3-D array
 
 <img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/202fd0fa-fc70-47c1-8665-98b6116b9eb0" width="400" height="130">
+
+### Pandas
+Pandas (Python for Data Analysis) is a Python library that **focuses on data analysis tasks** such a data manipulation, preprocessing, and cleaning. Pandas **provides data structures and high-level functions** to let you interact with structured/tabular data more quickly, easily, and expressively. There are two objects in Pandas: DataFrame and Series.
+
+Characteristics:
+- one data dimension
+- no column names because there is only one column
+- no index
+  
+A DataFrame is a data structure that is tabular and column-oriented, containing labels for each row and column. While Series is a one-dimensional array object with labels.
+
