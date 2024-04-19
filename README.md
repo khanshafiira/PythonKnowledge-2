@@ -74,5 +74,25 @@ NumPy is Python's essential scientific computing library. It is **a Python libra
 
 You can use NumPy in Python by import it
 
-
 Example #1:
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/874929b8-053c-44a7-8a72-f9a49efb84a6" width="180" height="80">
+
+### Dimension
+NumPy's primary object is a homogenous multidimensional array. It is a table with elements (typically numbers) of the same type, each indexed by a non-negative integer tuple. In NumPy, **dimensions are referred to as axes**.
+
+#### 0-D array
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/1b435a0d-fe8a-4b3f-8182-671bcc25578a" width="400" height="100">
+
+#### 1-D array
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/128dc9e2-de00-486a-aff8-9b63ad361edd" width="400" height="100">
+
+#### 2-D array
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/2ee00247-d609-419a-863b-cc649ccdd075" width="400" height="100">
+
+#### 3-D array
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/202fd0fa-fc70-47c1-8665-98b6116b9eb0" width="400" height="130">
