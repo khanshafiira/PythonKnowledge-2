@@ -166,3 +166,18 @@ LOC is basically a label-based indexing system that **allows you to refer to row
 
 #### b) Object DataFrame
 DataFrame is a data structure that is **tabular and column-oriented**, containing labels for each row and column.
+
+Transforming data Series in Data Dictionary to DataFrame:
+
+~ data Series in Data Dictionary
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/2baf11ab-9c3c-4643-906d-1605114fc17c" width="250" height="470">
+
+`
+
+~ (to) DataFrame
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/18ac9a62-75e4-4615-b7d4-ad2cf07cd3fa" width="450" height="225">
+
+
+
