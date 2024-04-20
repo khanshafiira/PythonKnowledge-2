@@ -179,5 +179,27 @@ Transforming data Series in Data Dictionary to DataFrame:
 
 <img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/18ac9a62-75e4-4615-b7d4-ad2cf07cd3fa" width="450" height="225">
 
+## Random Library
+Besides NumPy and Pandas, there is also Random Library in the Python. Random module in Python contains **a set of functions for generating and manipulating random integers**. The import random loads the random module, which contains a number of functions related to random number creation.
 
+Example random integer:
 
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/16af9bde-183c-4afc-b12e-a16ffcd76f53" width="320" height="250">
+
+`
+
+## Datetime
+Datetime in Python is a combination of dates and times. This class has attributes that are similar to both dates and independent classes. These properties are: day, month, year, minute, second, microsecond, hour, and tzinfo.
+
+You can use datetime in Python by importing it
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/e0ba4cd6-78a2-460a-8c28-b02c339241dd" width="180" height="60">
+
+Example for formatting datetime:
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/60684567-e16e-4009-8f42-1fe5bfc97e23" width="470" height="195">
+
+## Using .txt File in Python
+A text file is a computer file that is organized into lines of electronic text. In programming and Python, it refers to **a file that contains a single string-type data object**. In general, it is encoded by the computer and must be decoded before being processed by a program.
+
+<img src="https://github.com/khanshafiira/PythonKnowledge-2/assets/166186201/91169352-7aa2-4d4c-ae75-c770a1773651" width="250" height="150">
