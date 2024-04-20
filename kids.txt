@@ -1,0 +1,6 @@
+Name, Age
+Zira, 7
+Cila, 10
+Aya, 8
+Sasa, 6
+Lala, 10
